@@ -63,7 +63,7 @@ MyAutoML/
 │   ├── models/
 │   └── utils/
 │
-├── main.py
+├── app.py
 ├── requirements.txt
 └── README.md
 ```
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 ## Running the Application
 
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 
 ---
