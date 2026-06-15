@@ -82,6 +82,26 @@ MyAutoML/
 
 ---
 
+## Supported Models
+
+### Classification
+- Logistic Regression
+- Random Forest
+- Gradient Boosting
+- AdaBoost
+- Support Vector Machine (SVM)
+
+### Regression
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- ElasticNet
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- Support Vector Regressor (SVR)
+
+---
+
 ## Installation
 
 Clone the repository:
